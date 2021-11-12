@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9bffa8c068ab415489c57543712b58b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cursorChildObject: {instanceID: 0}
+  - objectToPlace: {fileID: 7546553485253332245, guid: 459d3b2e77834fe4596e535f09602531, type: 3}
+  - raycastManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
