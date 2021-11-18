@@ -9,4 +9,6 @@ An Augmented Reality Bowling Game made with Unity Engine using smartphone sensor
 
 ### Demo
 
-![ezgif com-crop(1)](https://github.com/aymensp/Ar-Game-Unity/blob/master/media/demo.mov)
+[ARBowling :](https://www.instagram.com/p/CWYfxKIFAg3/)
+
+
