@@ -8,8 +8,7 @@ An Augmented Reality Bowling Game made with Unity Engine using smartphone sensor
 <img src="https://github.com/aymensp/Ar-Game-Unity/blob/master/media/menu.PNG" width="150" height="300" />
 
 ### Demo
-
-![ezgif com-crop(1)](https://github.com/aymensp/Ar-Game-Unity/blob/master/media/scanPlan.gif)
+<img src="https://github.com/aymensp/Ar-Game-Unity/blob/master/media/scanPlan.gif" width="150" height="300" />
 
 ![ezgif com-crop(1)](https://github.com/aymensp/Ar-Game-Unity/blob/master/media/play.gif)
 
